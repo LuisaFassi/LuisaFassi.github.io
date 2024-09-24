@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Luisa Fassi
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Italian (native)
 
 - title: Education
   type: time_table
