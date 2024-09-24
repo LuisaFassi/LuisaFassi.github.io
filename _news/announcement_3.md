@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-08-01 00:00:00-0000
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+
+End of my 4-month research visit to Radboud University (Nijmegen, Netherlands) where I joined the [LCD](https://lifespancognitivedynamics.com/) Lab under the supervision of Prof Rogier Kievit
