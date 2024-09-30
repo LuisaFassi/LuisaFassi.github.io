@@ -25,10 +25,10 @@ My academic background spans Cognitive Neuroscience, Molecular Psychiatry, and P
 In my research, I study the complex and evolving relationship between social media use and youth mental health, with a particular emphasis on young people with pre-existing mental health conditions, such as anxiety, depression, or attention-deficit hyperactivity disorder. 
 In exploring this field, I adopt mixed-methods approaches, combining the strengths of both quantitative and qualitative research.
 
-From a quantitative perspective, I analyse large-scale survey datasets to examine both cross-sectional and longitudinal trends in social media use and their association with mental health. To this aim, I use a range of statistical techniques, including traditional inferential methods, causal inference approaches, and dynamic structural equation models. 
-In parallel, my qualitative research involves conducting focus groups with young people to ensure their lived experiences with social media are represented in the research process. By cantering their voices, I aim to gain deeper insights into how they navigate digital spaces and how these interactions may relate to changes in their mental health and well-being.
+From a quantitative perspective, I analyse large-scale survey datasets to examine both cross-sectional and longitudinal trends in social media use and their association with mental health.
+In parallel, my qualitative research involves conducting focus groups with young people to ensure their lived experiences with social media are represented in the research process.
 
 **Previous affiliations and supervisors:**
-- [University of Oxford, Department of Experimental Psychology](https://www.psy.ox.ac.uk/) 
--	[Erasmus Medical Centre, Department of Molecular Psychiatry](https://www.erasmusmc.nl/en/research/departments/psychiatry)
+- [University of Oxford, Department of Experimental Psychology](https://www.psy.ox.ac.uk/); supervised by Prof [Roi Cohen Kadosh](https://www.psy.ox.ac.uk/people/roi-cohenkadosh)
+-	[Erasmus Medical Centre, Department of Molecular Psychiatry](https://www.erasmusmc.nl/en/research/departments/psychiatry); supervised by Prof [Steven Kushner](https://www.erasmusmc.nl/en/research/researchers/kushner-steven)
 -	[Erasmus University Rotterdam, School of Social and Behavioural Sciences](https://www.eur.nl/en/essb)

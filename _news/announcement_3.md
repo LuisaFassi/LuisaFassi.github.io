@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2024-08-01 00:00:00-0000
+date: 2024-09-01 00:00:00-0000
 inline: true
 ---
 
+Started a 3-month placement as Assistant Clinical Psychologist at [NHS Addenbrooke’s Hospital](https://www.cuh.nhs.uk/our-services/childrens-services-paediatrics/) in Cambridge as part of Paediatric Medicine team 
 
-End of my 4-month research visit to Radboud University (Nijmegen, Netherlands) where I joined the [LCD](https://lifespancognitivedynamics.com/) Lab under the supervision of Prof Rogier Kievit
+***
+
+
+
+
