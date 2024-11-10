@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 3
-redirect_to: https://luisafassi.github.io/assets/pdf/LuisaFassi_CV_20240926.pdf
+redirect_to: https://luisafassi.github.io/assets/pdf/LuisaFassi_CV.pdf
 ---
 
