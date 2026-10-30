@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page! 
 
-I am a 4th-year PhD researcher in Medical Sciences based at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) and the [Department of Psychiatry](https://x.com/psychiatry_ucam) at the University of Cambridge. 
+I am a postdoctoral researcher in Psychology based at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) and the [Department of Psychiatry](https://x.com/psychiatry_ucam) at the University of Cambridge. 
 I work as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team supervised by Dr Amy Orben and the [chARM](https://x.com/charmpsych) team supervised by Prof Tamsin Ford. 
 
 My academic background spans Cognitive Neuroscience, Molecular Psychiatry, and Psychology. I previously completed an MSc in Psychological Research at the University of Oxford and a BS in Psychology at Erasmus University Rotterdam.
