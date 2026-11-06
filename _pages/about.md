@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page! 
 
-I am a postdoctoral researcher in Psychology based at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) and the [Department of Psychiatry](https://x.com/psychiatry_ucam) at the University of Cambridge, where I work as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team.
+I am a postdoctoral researcher in Psychology based at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) and the [Department of Psychiatry](https://x.com/psychiatry_ucam) at the University of Cambridge, where I work as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team. 
 
-My academic background spans Cognitive Neuroscience, Molecular Psychiatry, and Psychology. I previously completed an MSc in Psychological Research at the University of Oxford and a BS in Psychology at Erasmus University Rotterdam.
+My academic background spans Neuroscience, Molecular Psychiatry, and Psychology. I previously completed an MSc in Psychological Research at the University of Oxford and a BS in Psychology at Erasmus University Rotterdam.
 
 In my research, I study the complex and evolving relationship between social media use and youth mental health, with a particular emphasis on young people with pre-existing mental health conditions, such as anxiety, depression, or attention-deficit hyperactivity disorder. 
 In exploring this field, I adopt mixed-methods approaches, combining the strengths of both quantitative and qualitative research.
