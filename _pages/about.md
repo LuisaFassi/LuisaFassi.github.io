@@ -17,14 +17,18 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page! 
 
-I am a Postdoctoral Researcher based at [Behavioural Science Institute (BSI)](https://www.ru.nl/behavioural-science-institute) of Radboud University and I am a Research Affiliate at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) of the University of Cambridge, as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team. 
+I am a postdoctoral researcher in Psychology based at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) and the [Department of Psychiatry](https://x.com/psychiatry_ucam) at the University of Cambridge. 
+I work as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team supervised by Dr Amy Orben and the [chARM](https://x.com/charmpsych) team supervised by Prof Tamsin Ford. 
 
-My academic interests spans Psychology, Mental Health Sciences and, more recently, Philisophy of Science. I have a research background in Molecular and Cognitive Neuroscience. I completed my Bachelor in Psychology at Erasmus University Rotterdam in the Netherlands, I then moved to the UK to complete my Master of Science in Psychological Research at the University of Oxford and my PhD in Medical Sciences at the University of Cambridge.  
+My academic background spans Cognitive Neuroscience, Molecular Psychiatry, and Psychology. I previously completed an MSc in Psychological Research at the University of Oxford and a BS in Psychology at Erasmus University Rotterdam.
 
-In my current research, I study the complex and evolving relationship between social media use and adolescent mental health, with a particular emphasis on young people with mental health conditions, such as anxiety, depression, or ADHD. To do so, I combine both quantitative and qualitative methods. I am also interested in questions around measurement and methods development in psychological research.
+In my research, I study the complex and evolving relationship between social media use and youth mental health, with a particular emphasis on young people with pre-existing mental health conditions, such as anxiety, depression, or attention-deficit hyperactivity disorder. 
+In exploring this field, I adopt mixed-methods approaches, combining the strengths of both quantitative and qualitative research.
 
-**Previous roles:**
-- [University of Cambridge, MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/); supervised by Research Professor Amy Orben
-- [University of Oxford, Department of Experimental Psychology](https://www.psy.ox.ac.uk/); supervised by Professor Roi Cohen Kadosh
--	[Erasmus Medical Centre, Department of Molecular Psychiatry](https://www.erasmusmc.nl/en/research/departments/psychiatry); supervised by Professor Steven Kushner
+From a quantitative perspective, I analyse large-scale survey datasets to examine both cross-sectional and longitudinal trends in social media use and their association with mental health.
+In parallel, my qualitative research involves conducting focus groups with young people to ensure their lived experiences with social media are represented in the research process.
+
+**Previous affiliations and supervisors:**
+- [University of Oxford, Department of Experimental Psychology](https://www.psy.ox.ac.uk/); supervised by Prof [Roi Cohen Kadosh](https://www.psy.ox.ac.uk/people/roi-cohenkadosh)
+-	[Erasmus Medical Centre, Department of Molecular Psychiatry](https://www.erasmusmc.nl/en/research/departments/psychiatry); supervised by Prof [Steven Kushner](https://www.erasmusmc.nl/en/research/researchers/kushner-steven)
 -	[Erasmus University Rotterdam, School of Social and Behavioural Sciences](https://www.eur.nl/en/essb)
