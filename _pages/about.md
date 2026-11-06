@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page! 
 
-I am a Postdoctoral Researcher at [Behavioural Science Institute (BSI)](https://www.ru.nl/behavioural-science-institute) of Radboud University and I am a Research Affiliate at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) of the University of Cambridge, as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team. 
+I am a Postdoctoral Researcher based at [Behavioural Science Institute (BSI)](https://www.ru.nl/behavioural-science-institute) of Radboud University and I am a Research Affiliate at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) of the University of Cambridge, as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team. 
 
 My academic interests spans Psychology, Mental Health Sciences and, more recently, Philisophy of Science. I have a research background in Molecular and Cognitive Neuroscience. I completed my Bachelor in Psychology at Erasmus University Rotterdam in the Netherlands, I then moved to the UK to complete my Master of Science in Psychological Research at the University of Oxford and my PhD in Medical Sciences at the University of Cambridge.  
 
