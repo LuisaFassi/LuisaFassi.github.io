@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my page! 
 
-I am a Postdoctoral Researcher at [Behavioural Science Institute (BSI)](https://www.ru.nl/behavioural-science-institute) of Radboud University and I am a Research Affiliate at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) of the University of Cambridge, as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team. 
+I am a Postdoctoral Researcher at [Behavioural Science Institute (BSI)](https://www.ru.nl/behavioural-science-institute) of Radboud University and I am a Senior Research Affiliate at the [MRC Cognition and Brain Sciences Unit](https://www.mrc-cbu.cam.ac.uk/) of the University of Cambridge, as part of the [Digital Mental Health](https://t.co/oP7RhsulGp) Team. 
 
-My current work draws on different disciplines: Psychology, Psychiatry, Communication Science, and, more recently, Philosophy of Science. In my research, I examine the complex and evolving relationship between social media use and adolescent mental health, with a particular emphasis on young people with mental health conditions such as anxiety, depression or ADHD. I use a combination of quantitative and qualitative methods, and I also explore questions around measurement and method development.
+My current work draws on different disciplines: Psychology, Psychiatry, Communication Science, and Philosophy of Science. In my research, I examine the complex and evolving relationship between social media use and adolescent mental health, with a particular emphasis on young people with mental health conditions such as anxiety, depression or ADHD. I use a combination of quantitative and qualitative methods, and I also explore questions around measurement and method development.
 
 Ultimately, my goals are to develop research paradigms that allow us to study mental health in meaningful ways and to understand how we can support children and young people growing up in an increasingly digitalised world. 
 
